@@ -1,0 +1,11 @@
+{
+  "name": "Trippybook",
+  "displayName": "Trippybook",
+  "android": {
+    "config": {
+      "googleMaps": {
+        "apiKey": "AIzaSyAxFuYPwYBJtV4l-osmhXClJ_qbuuXCpQ8"
+      }
+    }
+  }
+}
